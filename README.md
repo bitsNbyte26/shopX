@@ -1,5 +1,4 @@
 # SPC
-Hosted URL : [Link](http://spccare.in)
 
 ScreenShots 
 
